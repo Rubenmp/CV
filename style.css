@@ -1,0 +1,48 @@
+<style type="text/css">
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    max-width: 800px;
+    background: #FFFFFF;
+    padding: 25px 10px 10px 25px;
+    margin: auto;
+}
+
+
+h1 {
+    text-align: center;
+    color: #757575;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #066D8B;
+}
+
+h2:before {
+    content: "";
+    display: inline-block;
+    margin-right:1%;
+    width: 20%;
+    height: 10px;
+    background-color: #1792A4/*#9CB770*/;
+}
+
+
+blockquote {
+    text-align: center
+}
+
+a {
+    text-decoration: none;
+    color: #2956B2/*#397249*/;
+}
+
+hr {
+    color: #A6A6A6;
+}
+
+table {
+    width: 100%;
+}
+</style>
