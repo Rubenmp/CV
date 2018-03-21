@@ -24,22 +24,17 @@ Education
 
 2014 - ...
 :   **Double bachelor degree in computer sciences and mathematics** - University of Granada
-
-:    Specialization
-
-       * Computer sciences: *Artificial intelligence*
-
+:    Specialization\
+       * Computer sciences: *Artificial intelligence*\
        * Mathematics: *Applied statistics*
 
 2017 - 18
-:   **Erasmus** - Durham University (England)
-
+:   **Erasmus** - Durham University (England)\
     Top 100 university in different rankings ([QS](https://www.topuniversities.com/university-rankings/world-university-rankings/2018), [THE](https://www.timeshighereducation.com/world-university-rankings/2018/world-ranking#!/page/0/length/25/name/Durham/sort_by/rank/sort_order/asc/cols/stats))
 
 
 2012 - 14
-:   **General Certificate of Education in sciences** - IES Francisco Ros Giner (Spain)
-
+:   **General Certificate of Education in sciences** - IES Francisco Ros Giner (Spain)\
     *Proposed honors*
 
 2008 - 12
