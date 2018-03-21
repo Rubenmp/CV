@@ -2,8 +2,8 @@ before_install:
   gem install awesome_bot
 
 script:
-  make
-  awesome_bot ./input/resume.md
+  make;
+  awesome_bot ./input/resume.md;
   awesome_bot ./input/resume-spanish.md
 
 warnings_are_errors: false
