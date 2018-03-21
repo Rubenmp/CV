@@ -1,5 +1,5 @@
 before_install:
-  sudo gem install awesome_bot
+  gem install awesome_bot
 
 script:
   make
