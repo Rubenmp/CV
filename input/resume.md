@@ -32,7 +32,6 @@ Education
 :   **Erasmus** - Durham University (England)\
     Top 100 university in different rankings ([QS](https://www.topuniversities.com/university-rankings/world-university-rankings/2018), [THE](https://www.timeshighereducation.com/world-university-rankings/2018/world-ranking#!/page/0/length/25/name/Durham/sort_by/rank/sort_order/asc/cols/stats))
 
-
 2012 - 14
 :   **General Certificate of Education in sciences** - IES Francisco Ros Giner (Spain)\
     *Proposed honors*
@@ -61,14 +60,15 @@ Knowledge
 **Databases**
 :   Relational: MySQL/SQL
 
-**system admin**
+**System admin**
 :   GNU/Linux, Windows server, VirtualBox, remote servers
 
 **Networks**
 :   Wireshark, VPNs, routing
 
-**Continuous integration**
-:   [Travis CI](https://travis-ci.com/)
+**Version control**
+:   Git/GitHub
+:   Continuous integration with [Travis CI](https://travis-ci.com/)
 
 **Graphical User Interface**
 :   GUIs using Java
