@@ -21,6 +21,5 @@ init: dir
 dir:
 	mkdir -p $(OUT_DIR)
 
-
 clean:
 	rm -f $(OUT_DIR)/*
