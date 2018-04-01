@@ -23,7 +23,7 @@ Education
 ---------
 
 2014 - ...
-:   **Double bachelor degree in computer sciences and mathematics** - University of Granada
+:   **Double bachelor in computer sciences and mathematics** - University of Granada
 :    Specialization\
        * Computer sciences: *Artificial intelligence*\
        * Mathematics: *Applied statistics*
