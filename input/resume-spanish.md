@@ -94,10 +94,10 @@ Julio-Agosto 2015
 :   **Camarero en [Ele Tapas Restaurant](http://www.eletapas.nl/)**. Utrecht (Holanda)
 
 Julio 2014
-:   **Ayudante de artes gráficas** en *Marcate Soc Coop*
+:   **Ayudante de artes gráficas** en *Marcate Soc Coop* Lorca, Murcia
 
 Julio-Agosto 2013
-:   **Profesor particular de matemáticas**. Nivel bachillerato
+:   **Profesor particular de matemáticas**. Nivel bachillerato. Lorca, Murcia
 
 
 

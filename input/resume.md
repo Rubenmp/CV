@@ -82,7 +82,7 @@ Knowledge
 :   Differential geometry
 
 **General**
-:   Data structures, algorithm and complexity theory
+:   Data structures, algorithms and complexity theory
 
 
 Work experience
@@ -92,10 +92,10 @@ July-August 2015
 :   **Waiter in [Ele Tapas Restaurant](http://www.eletapas.nl/)**. Utrecht (Netherlands)
 
 July 2014
-:   Work in a **publicity agency** called *Marcate Soc Coop*
+:   Work in a **publicity agency** called *Marcate Soc Coop* Lorca (Spain)
 
 July-August 2013
-:   **Tutor in mathematics**
+:   **Tutor in mathematics** Lorca (Spain)
 
 
 
@@ -108,7 +108,6 @@ Other contributions
 :   Rubik's solver
 :   Anki decks of different subjects from Durham University
 
-[comment]: <> ( **Política universitaria** :   DEIIT. Delegación de Estudiantes de Ingeniería Informática y Telecomunicación :   Junta de centro de la ETSIIT 2015-17 :   Miembro departamentos [DECSAI](http://decsai.ugr.es/) y [LSI](https://lsi.ugr.es/lsi/) 2016-2017 :   Participación en las [VI Jornadas de Formación para representantes](http://ritsi.org/noticias/vi-jornadas-de-formacion/) de [RITSI](http://ritsi.org/): Asociación que representa al estudiantado de Ingenierías en Informática a nivel estatal )
 **Courses**
 :   Android apps (30 hours). [Universidad Internacional de Andalucía (UNIA)](https://www.unia.es/servicio-de-comunicacion-e-informacion/prensa-uniatv/category/cursos-de-verano-unia/4)
 
