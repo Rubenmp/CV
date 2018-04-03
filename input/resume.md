@@ -16,8 +16,6 @@ Rubén Morales Pérez
 -----------------
 
 
-[comment]: <> ( Interés por la resolución de problemas de forma teórica y su posible automatización. En la inteligencia artificial las matemáticas ayudan a la abstracción y la informática a la comprobación y medición empírica )
-
 
 Education
 ---------
@@ -29,7 +27,7 @@ Education
        * Mathematics: *Applied statistics*
 
 2017 - 18
-:   **Erasmus** - Durham University (England)\
+:   **Erasmus** - Durham University (UK)\
     Top 100 university in different rankings ([QS](https://www.topuniversities.com/university-rankings/world-university-rankings/2018), [THE](https://www.timeshighereducation.com/world-university-rankings/2018/world-ranking#!/page/0/length/25/name/Durham/sort_by/rank/sort_order/asc/cols/stats))
 
 2012 - 14
@@ -41,7 +39,7 @@ Education
 
 
 Languages
---------
+---------
 
 Native speaker of *Spanish*
 
@@ -51,11 +49,11 @@ Native speaker of *Spanish*
 
 
 Knowledge
--------------
+----------
 **Languages**
 :   Programing: C/C++, Java, Ruby, Python, R, Haskell, bash, assembly x86, AIML
 :   Typesetting systems: Markdown, Latex
-:   Symbolic Mathematics: Maxima
+:   Symbolic computation: Maxima
 
 **Databases**
 :   Relational: MySQL/SQL
@@ -71,12 +69,12 @@ Knowledge
 :   Continuous integration with [Travis CI](https://travis-ci.com/)
 
 **Graphical User Interface**
-:   GUIs using Java
+:   Develop GUIs using Java
 :   Automation of GUIs with [Sikulix](https://github.com/Rubenmp/Charla-SikuliX)
 
 **Mathematics**
 :   Statistical inference
-:   Numerical methods
+:   Numerical analysis
 :   Differential equations and partial differential equations
 :   Modeling
 :   Differential geometry
@@ -86,7 +84,7 @@ Knowledge
 
 
 Work experience
--------------------
+---------------
 
 July-August 2015
 :   **Waiter in [Ele Tapas Restaurant](http://www.eletapas.nl/)**. Utrecht (Netherlands)
@@ -101,12 +99,12 @@ July-August 2013
 
 
 Other contributions
------
+-------------------
 
 **Open source** in [GitHub](https://github.com/Rubenmp)
-:   Lecture notes and solved problems for different subjects in University of Granada
-:   Rubik's solver
-:   Anki decks of different subjects from Durham University
+:   Lecture notes and solved problems for different subjects
+:   Rubik's cube solver
+:   Anki decks of several subjects
 
 **Courses**
 :   Android apps (30 hours). [Universidad Internacional de Andalucía (UNIA)](https://www.unia.es/servicio-de-comunicacion-e-informacion/prensa-uniatv/category/cursos-de-verano-unia/4)

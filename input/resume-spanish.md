@@ -29,7 +29,7 @@ Educación
        * Matemáticas: *Estadística aplicada*
 
 2017 - 18
-:   **Erasmus** - Durham University (Inglaterra)\
+:   **Erasmus** - Durham University (Reino Unido)\
     Universidad Top 100 mundial en diferentes rankings ([QS](https://www.topuniversities.com/university-rankings/world-university-rankings/2018), [THE](https://www.timeshighereducation.com/world-university-rankings/2018/world-ranking#!/page/0/length/25/name/Durham/sort_by/rank/sort_order/asc/cols/stats))
 
 2012 - 14
@@ -62,7 +62,7 @@ Conocimientos
 :   Relacionales: MySQL/SQL
 
 **Administración de sistemas**
-:   GNU/Linux, Windows server, VirtualBox, gestión de servidores remotos
+:   GNU/Linux, Windows Server, VirtualBox, gestión de servidores remotos
 
 **Redes de computadores**
 :   Wireshark, VPNs, enrutamiento y encaminamiento  
@@ -77,7 +77,7 @@ Conocimientos
 
 **Matemáticas**
 :   Inferencia estadística y su aplicación con *R*
-:   Diferentes métodos numéricos
+:   Análisis numérico
 :   Resolución de ecuaciones diferenciales y ecuaciones en derivadas parciales
 :   Modelización
 :   Curvas y superficies
