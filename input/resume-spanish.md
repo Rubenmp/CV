@@ -17,43 +17,47 @@ Rubén Morales Pérez
 
 
 
-Educación
-----------
+## Educación
 
-2014 - ...
+<div>
+
+2014 - ...\
 :   **Doble grado en ingeniería informática y matemáticas** - Univ. de Granada
-:    Especialidad\
-       * Informática: *Computación y Sistemas Inteligentes*\
-       * Matemáticas: *Estadística aplicada*
+:   Especialidad\
+    :   Informática: *Computación y Sistemas Inteligentes*\
+    :   Matemáticas: *Estadística aplicada*
 
 2017 - 18
 :   **Erasmus** - Durham University (Reino Unido)
 
 2012 - 14
-:   **Bachillerato científico tecnológico** - IES Francisco Ros Giner (Lorca, Murcia)\
-    *Propuesto a matrícula de honor*
+:   *Bachillerato científico tecnológico bilingüe* - IES Francisco Ros Giner (Lorca, Murcia)\
 
-2008 - 12
-:   **Programa bilingüe (inglés) en enseñanza secundaria** - IES Francisco Ros Giner (Lorca, Murcia)
+</div>
 
 
+## Idiomas
 
-Idiomas
----------
+<div>
+
 *Castellano* nativo e inglés fluido.
 
+</div>
 
-Conocimientos
--------------
+
+## Conocimientos
+
+<div>
+
 **Lenguajes**
-:   Programación: C/C++, Java, Javascript, Python, Ruby, R, Haskell, bash, ensamblador x86, AIML
+:   Programación: C/C++, Java, JS, Python, Ruby, R, Haskell, Bash, ensamblador x86, AIML
 :   Marcado: Markdown, Latex
 :   Cálculo simbólico: Maxima
 
 **Matemáticas**
-:   Inferencia estadística y su aplicación con *R*
+:   Inferencia estadística
 :   Análisis numérico
-:   Resolución de ecuaciones diferenciales y ecuaciones en derivadas parciales
+:   Ecuaciones diferenciales y ecuaciones en derivadas parciales
 :   Modelización
 :   Curvas y superficies
 
@@ -62,7 +66,7 @@ Conocimientos
 :   No relacionales: MongoDB
 
 **Administración de sistemas y redes**
-:   GNU/Linux, Windows Server, VirtualBox, gestión de servidores remotos
+:   GNU/Linux, Windows Server, VirtualBox, administración de servidores remotos
 :   Wireshark, VPNs, enrutamiento y encaminamiento  
 
 **Control de versiones**
@@ -71,28 +75,36 @@ Conocimientos
 
 **Interfaces gráficas y aplicaciones**
 :   Desarrollo Android
-:   React native, framework de Javascript para crear aplicaciones natives en iOS y Android
+:   React native, framework de JavaScript para crear aplicaciones natives en iOS y Android
 :   Aplicaciones de escritorio con Java
 :   Automatización de GUIs con [Sikulix](https://github.com/Rubenmp/Charla-SikuliX)
 
+</div>
 
+<div style="padding-top: 150px">
 
-Experiencia laboral
--------------------
+</div>
+
+ 
+## Experiencia laboral
+
+<div>
 
 Julio-Agosto 2015
 :   **Camarero en [Ele Tapas Restaurant](http://www.eletapas.nl/)** (Utrecht, Holanda)
 
 Julio 2014
-:   **Aprendiz en una empresa de publicidad** en *Marcate Soc Coop* (Lorca, Murcia)
+:   **Aprendiz en la empresa de publicidad** *Marcate Soc Coop* (Lorca, Murcia)
 
 Julio-Agosto 2013
 :   **Profesor particular de matemáticas**. Nivel bachillerato (Lorca, Murcia)
 
+</div>
 
 
-Extracurricular
----------------
+## Extracurricular
+
+<div>
 
 **Cultura libre** en [GitHub](https://github.com/Rubenmp)
 :   Asignaturas 'Probabilidad I', 'Variable Compleja I' y 'Análisis Matemático II', de la Universidad de Granada
@@ -100,7 +112,7 @@ Extracurricular
 :   Decks Anki sobre asignaturas de la Universidad de Durham
 
 **Representación estudiantil**
-:   DEIIT. Delegación de Estudiantes de Ingeniería Informática y Telecomunicación
+:   [DEIIT](http://deiit.ugr.es/). Delegación de Estudiantes de Ingeniería Informática y Telecomunicación
 :   Junta de centro de la ETSIIT 2015-17
 :   Miembro departamentos [DECSAI](http://decsai.ugr.es/) y [LSI](https://lsi.ugr.es/lsi/) 2016-2017
 :   Participación en las [VI Jornadas de Formación para representantes](http://ritsi.org/noticias/vi-jornadas-de-formacion/) de [RITSI](http://ritsi.org/): Asociación que representa al estudiantado de Ingenierías en Informática a nivel estatal
@@ -109,3 +121,5 @@ Extracurricular
 **Asociaciones**
 :   [Interferencias](https://interferencias.tech/): Grupo ciberactivista sobre derechos digitales, seguridad informática y temáticas similares.
 :   [LibreIM](https://libreim.github.io/): Comunidad dedicada al estudio y divulgación de las matemáticas y la informática
+
+</div>
