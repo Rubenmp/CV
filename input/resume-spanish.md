@@ -16,8 +16,6 @@ Rubén Morales Pérez
 -----------------
 
 
-[comment]: <> ( Interés por la resolución de problemas de forma teórica y su posible automatización. En la inteligencia artificial las matemáticas ayudan a la abstracción y la informática a la comprobación y medición empírica )
-
 
 Educación
 ----------
@@ -29,8 +27,7 @@ Educación
        * Matemáticas: *Estadística aplicada*
 
 2017 - 18
-:   **Erasmus** - Durham University (Reino Unido)\
-    Universidad Top 100 mundial en diferentes rankings ([QS](https://www.topuniversities.com/university-rankings/world-university-rankings/2018), [THE](https://www.timeshighereducation.com/world-university-rankings/2018/world-ranking#!/page/0/length/25/name/Durham/sort_by/rank/sort_order/asc/cols/stats))
+:   **Erasmus** - Durham University (Reino Unido)
 
 2012 - 14
 :   **Bachillerato científico tecnológico** - IES Francisco Ros Giner (Lorca, Murcia)\
@@ -43,37 +40,15 @@ Educación
 
 Idiomas
 ---------
-*Castellano* nativo
-
-|         	| Lectura 	| Escritura 	| Conversación 	| Comprensión 	|
-|---------	|---------	|-----------	|--------------	|-------------	|
-| *Inglés*  | B2      	| B1        	| B2           	| B1          	|
-
+*Castellano* nativo e inglés fluido.
 
 
 Conocimientos
 -------------
 **Lenguajes**
-:   General: C/C++, Java, Ruby, Python, R, Haskell, bash, ensamblador x86, AIML
+:   Programación: C/C++, Java, Javascript, Python, Ruby, R, Haskell, bash, ensamblador x86, AIML
 :   Marcado: Markdown, Latex
 :   Cálculo simbólico: Maxima
-
-**Bases de datos**
-:   Relacionales: MySQL/SQL
-
-**Administración de sistemas**
-:   GNU/Linux, Windows Server, VirtualBox, gestión de servidores remotos
-
-**Redes de computadores**
-:   Wireshark, VPNs, enrutamiento y encaminamiento  
-
-**Control de versiones**
-:   Git/GitHub
-:   Integración continua con [Travis CI](https://travis-ci.com/)
-
-**Referente a interfaces gráficas**
-:   Creación de GUIs con Java
-:   Automatización de GUIs con [Sikulix](https://github.com/Rubenmp/Charla-SikuliX)
 
 **Matemáticas**
 :   Inferencia estadística y su aplicación con *R*
@@ -82,8 +57,23 @@ Conocimientos
 :   Modelización
 :   Curvas y superficies
 
-**Competencias generales**
-:   Estructuras de datos, teoría de algoritmos y de complejidad
+**Bases de datos**
+:   Relacionales: MySQL/SQL
+:   No relacionales: MongoDB
+
+**Administración de sistemas y redes**
+:   GNU/Linux, Windows Server, VirtualBox, gestión de servidores remotos
+:   Wireshark, VPNs, enrutamiento y encaminamiento  
+
+**Control de versiones**
+:   Git/GitHub
+:   Integración continua con [Travis CI](https://travis-ci.com/)
+
+**Interfaces gráficas y aplicaciones**
+:   Desarrollo Android
+:   React native, framework de Javascript para crear aplicaciones natives en iOS y Android
+:   Aplicaciones de escritorio con Java
+:   Automatización de GUIs con [Sikulix](https://github.com/Rubenmp/Charla-SikuliX)
 
 
 
@@ -91,13 +81,13 @@ Experiencia laboral
 -------------------
 
 Julio-Agosto 2015
-:   **Camarero en [Ele Tapas Restaurant](http://www.eletapas.nl/)**. Utrecht (Holanda)
+:   **Camarero en [Ele Tapas Restaurant](http://www.eletapas.nl/)** (Utrecht, Holanda)
 
 Julio 2014
-:   **Ayudante de artes gráficas** en *Marcate Soc Coop* Lorca, Murcia
+:   **Aprendiz en una empresa de publicidad** en *Marcate Soc Coop* (Lorca, Murcia)
 
 Julio-Agosto 2013
-:   **Profesor particular de matemáticas**. Nivel bachillerato. Lorca, Murcia
+:   **Profesor particular de matemáticas**. Nivel bachillerato (Lorca, Murcia)
 
 
 
@@ -109,18 +99,13 @@ Extracurricular
 :   Programa que resuelve cubos de Rubik
 :   Decks Anki sobre asignaturas de la Universidad de Durham
 
-**Política universitaria**
+**Representación estudiantil**
 :   DEIIT. Delegación de Estudiantes de Ingeniería Informática y Telecomunicación
 :   Junta de centro de la ETSIIT 2015-17
 :   Miembro departamentos [DECSAI](http://decsai.ugr.es/) y [LSI](https://lsi.ugr.es/lsi/) 2016-2017
 :   Participación en las [VI Jornadas de Formación para representantes](http://ritsi.org/noticias/vi-jornadas-de-formacion/) de [RITSI](http://ritsi.org/): Asociación que representa al estudiantado de Ingenierías en Informática a nivel estatal
 
-**Cursos**
-:   Desarrollo Apps Android (30 horas). [Universidad Internacional de Andalucía (UNIA)](https://www.unia.es/servicio-de-comunicacion-e-informacion/prensa-uniatv/category/cursos-de-verano-unia/4)
 
 **Asociaciones**
 :   [Interferencias](https://interferencias.tech/): Grupo ciberactivista sobre derechos digitales, seguridad informática y temáticas similares.
 :   [LibreIM](https://libreim.github.io/): Comunidad dedicada al estudio y divulgación de las matemáticas y la informática
-
-**Programación competitiva**
-:   Hash Code 2018: Posición 887 de más de 30,000 equipos inscritos
