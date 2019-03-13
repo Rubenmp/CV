@@ -21,7 +21,7 @@ Rubén Morales Pérez
 
 <div>
 
-2014 - ...\
+2014 - Enero 2020\
 :   **Doble grado en ingeniería informática y matemáticas** - Univ. de Granada
 :   Especialidad\
     :   Informática: *Computación y Sistemas Inteligentes*\
@@ -40,7 +40,7 @@ Rubén Morales Pérez
 
 <div>
 
-*Castellano* nativo e inglés fluido.
+*Castellano* e inglés.
 
 </div>
 
@@ -51,13 +51,13 @@ Rubén Morales Pérez
 
 **Lenguajes**
 :   Programación: C/C++, Java, JS, Python, Ruby, R, Haskell, Bash, ensamblador x86, AIML
-:   Marcado: Markdown, Latex
 :   Cálculo simbólico: Maxima
+:   Marcado: Markdown, Latex
 
 **Matemáticas**
 :   Inferencia estadística
 :   Análisis numérico
-:   Ecuaciones diferenciales y ecuaciones en derivadas parciales
+:   Ecuaciones diferenciales y con derivadas parciales
 :   Modelización
 :   Curvas y superficies
 
@@ -66,7 +66,7 @@ Rubén Morales Pérez
 :   No relacionales: MongoDB
 
 **Administración de sistemas y redes**
-:   GNU/Linux, Windows Server, VirtualBox, administración de servidores remotos
+:   GNU/Linux, Windows Server, VirtualBox, administración de servidores
 :   Wireshark, VPNs, enrutamiento y encaminamiento  
 
 **Control de versiones**
@@ -75,7 +75,7 @@ Rubén Morales Pérez
 
 **Interfaces gráficas y aplicaciones**
 :   Desarrollo Android
-:   React native, framework de JavaScript para crear aplicaciones natives en iOS y Android
+:   React Native
 :   Aplicaciones de escritorio con Java
 :   Automatización de GUIs con [Sikulix](https://github.com/Rubenmp/Charla-SikuliX)
 
@@ -105,11 +105,6 @@ Julio-Agosto 2013
 ## Extracurricular
 
 <div>
-
-**Cultura libre** en [GitHub](https://github.com/Rubenmp)
-:   Asignaturas 'Probabilidad I', 'Variable Compleja I' y 'Análisis Matemático II', de la Universidad de Granada
-:   Programa que resuelve cubos de Rubik
-:   Decks Anki sobre asignaturas de la Universidad de Durham
 
 **Representación estudiantil**
 :   [DEIIT](http://deiit.ugr.es/). Delegación de Estudiantes de Ingeniería Informática y Telecomunicación
