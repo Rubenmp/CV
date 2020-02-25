@@ -40,7 +40,7 @@ Rubén Morales Pérez
 
 <div>
 
-*Castellano* e inglés.
+*Castellano* e *inglés*.
 
 </div>
 
@@ -50,14 +50,14 @@ Rubén Morales Pérez
 <div>
 
 **Lenguajes**
-:   Programación: C/C++, Java, JS, Python, Ruby, R, Haskell, Bash, ensamblador x86, AIML
+:   Programación: C/C++, Java, JavaScript/TypeScript, Python, Ruby, R, Bash, ensamblador x86, AIML
 :   Cálculo simbólico: Maxima
-:   Marcado: Markdown, Latex
+:   Composición de textos: Markdown, Latex
 
 **Matemáticas**
 :   Inferencia estadística
 :   Análisis numérico
-:   Ecuaciones diferenciales y con derivadas parciales
+:   Ecuaciones diferenciales y en derivadas parciales
 :   Modelización
 :   Curvas y superficies
 
@@ -66,18 +66,23 @@ Rubén Morales Pérez
 :   No relacionales: MongoDB
 
 **Administración de sistemas y redes**
-:   GNU/Linux, Windows Server, VirtualBox, administración de servidores
-:   Wireshark, VPNs, enrutamiento y encaminamiento  
+:   GNU/Linux, Windows Server, VirtualBox
+:   Wireshark, VPNs
 
 **Control de versiones**
 :   Git/GitHub
-:   Integración continua con [Travis CI](https://travis-ci.com/)
+:   Integración continua con [Travis CI](https://travis-ci.com/) y despliegue continuo con Jenkins
 
-**Interfaces gráficas y aplicaciones**
+**Interfaces gráficas**
 :   Desarrollo Android
-:   React Native
+:   React Native: aplicaciones móviles nativas
 :   Aplicaciones de escritorio con Java
 :   Automatización de GUIs con [Sikulix](https://github.com/Rubenmp/Charla-SikuliX)
+
+**Testing**
+:   Junit, Mockito (Java)
+:   Karma, Jasmine (Angular)
+:   Selenium
 
 </div>
 
@@ -90,14 +95,11 @@ Rubén Morales Pérez
 
 <div>
 
-Julio-Agosto 2015
-:   **Camarero en [Ele Tapas Restaurant](http://www.eletapas.nl/)** (Utrecht, Holanda)
-
-Julio 2014
-:   **Aprendiz en la empresa de publicidad** *Marcate Soc Coop* (Lorca, Murcia)
-
-Julio-Agosto 2013
-:   **Profesor particular de matemáticas**. Nivel bachillerato (Lorca, Murcia)
+Julio 2019 - ...
+:   **Desarrollador full stack en [ELCA](https://www.elca.ch/en)**
+:	Back end con Java, JUnit, Spring, Mockito
+:	Front end con Angular, Karma, Jasmine
+:	Despliegue con Dokku, gestión de bases de datos con MySQL y Flyway
 
 </div>
 
@@ -107,14 +109,14 @@ Julio-Agosto 2013
 <div>
 
 **Representación estudiantil**
-:   [DEIIT](http://deiit.ugr.es/). Delegación de Estudiantes de Ingeniería Informática y Telecomunicación
-:   Junta de centro de la ETSIIT 2015-17
-:   Miembro departamentos [DECSAI](http://decsai.ugr.es/) y [LSI](https://lsi.ugr.es/lsi/) 2016-2017
-:   Participación en las [VI Jornadas de Formación para representantes](http://ritsi.org/noticias/vi-jornadas-de-formacion/) de [RITSI](http://ritsi.org/): Asociación que representa al estudiantado de Ingenierías en Informática a nivel estatal
+:   Secretario de la comisión académica de la [DEIIT](http://deiit.ugr.es/) (Delegación de Estudiantes de Ingeniería Informática y Telecomunicación)
+:   Miembro electo a junta de centro de la ETSIIT 2015-17
+:   Miembro de los departamentos [DECSAI](http://decsai.ugr.es/) y [LSI](https://lsi.ugr.es/lsi/) 2016-2017
+:   Participación en las [VI Jornadas de Formación para representantes](http://ritsi.org/noticias/vi-jornadas-de-formacion/) de [RITSI](http://ritsi.org/) (asociación que representa a los estudiantes de Ingeniería Informática a nivel estatal)
 
 
 **Asociaciones**
-:   [Interferencias](https://interferencias.tech/): Grupo ciberactivista sobre derechos digitales, seguridad informática y temáticas similares.
-:   [LibreIM](https://libreim.github.io/): Comunidad dedicada al estudio y divulgación de las matemáticas y la informática
+:   [Interferencias](https://interferencias.tech/): activismo sobre derechos digitales y seguridad informática
+:   [LibreIM](https://libreim.github.io/): estudio y divulgación de las matemáticas y la informática
 
 </div>

@@ -23,9 +23,9 @@ Rubén Morales Pérez
 
 2014 - ... \
 :   **Double bachelor in computer sciences and mathematics** - University of Granada 
-:   Field\
+:   Specialization\
     :   Computer sciences: *Artificial intelligence*\
-    :   Mathematics: *Applied statistics*  
+    :   Mathematics: *Applied statistics*
 
 
 2017 - 18
@@ -47,7 +47,7 @@ Native speaker of *Spanish* and fluent in *English*
 <div>
 
 **Languages**
-:   Programing: C/C++, Java, JS, Python, Ruby, R, Haskell, Bash, x86 assembly, AIML
+:   Programing: C/C++, Java, JavaScript/TypeScript, Python, Ruby, R, Bash, x86 assembly, AIML
 :   Typesetting systems: Markdown, Latex
 :   Symbolic computation: Maxima
 
@@ -60,26 +60,34 @@ Native speaker of *Spanish* and fluent in *English*
 :   Differential geometry
 
 
-**Databases**
+**Database**
 :   Relational: MySQL/SQL
 :   Non-relational: MongoDB
 
 
 **SysAdmin and networks**
-:   GNU/Linux, Windows server, VirtualBox, remote servers
+:   GNU/Linux, Windows server, VirtualBox
 :   Wireshark, VPNs, routing
 
 
 **Version control**
 :   Git/GitHub
-:   Continuous integration with [Travis CI](https://travis-ci.com/)
+:   Continuous integration with [Travis CI](https://travis-ci.com/) and continuous delivery with Jenkins
 
 
-**Apps and Graphical User Interfaces**
+**User Interfaces**
 :   Android development at [Universidad Internacional de Andalucía (UNIA)](https://www.unia.es/servicio-de-comunicacion-e-informacion/prensa-uniatv/category/cursos-de-verano-unia/4)
-:   React native, Javascript framework for building native mobile apps (iOS & Android)
+:   React native: native mobile apps (iOS & Android)
 :   Desktop applications with Java
 :   Automate GUIs with [SikuliX](https://github.com/Rubenmp/Charla-SikuliX)
+
+
+**Testing**
+:   Junit, Mockito (Java)
+:   Karma, Jasmine (Angular)
+:   Selenium
+
+****
 
 </div>
 
@@ -90,14 +98,11 @@ Native speaker of *Spanish* and fluent in *English*
 ## Work experience
 <div>
 
-July-August 2015
-:   **Waiter in [Ele Tapas Restaurant](http://www.eletapas.nl/)**. (Utrecht, Netherlands)
-
-July 2014
-:   Work in an **advertising agency** called *Marcate Soc Coop* (Lorca, Spain)
-
-July-August 2013
-:   **Tutor in mathematics** (Lorca, Spain)
+July 2019 - ...
+:   **Full stack developer at [ELCA](https://www.elca.ch/en)**
+:	Back end with Java, JUnit, Spring
+:	Front end with Angular, Karma, Jasmine
+:	Dokku for deployment and database administration with MySQL and Flyway
 
 </div>
 
