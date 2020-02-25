@@ -8,8 +8,8 @@ Rubén Morales Pérez
 
 <img src="../img/message.png" width="20"/> rbnmp@protonmail.com \
 <img src="../img/wa.jpg" width="20"/> +34 636 61 27 39 \
-[<img src="../img/github.png "" width="20"/> Rubenmp](https://github.com/Rubenmp) \
-[<img src="../img/linkedin.png "" width="20"/> Rubenmp](https://linkedin.com/in/rubén-morales-pérez)
+<img src="../img/github.png" width="20"/> [Rubenmp](https://github.com/Rubenmp) \
+<img src="../img/linkedin.png" width="20"/> [Rubenmp](https://linkedin.com/in/rubén-morales-pérez)
 
 </div>
 

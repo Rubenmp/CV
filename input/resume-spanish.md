@@ -6,11 +6,11 @@ Rubén Morales Pérez
 
 <div style="text-align: center">
 
-<img src="http://freevector.co/wp-content/uploads/2014/06/53726-new-email-interface-symbol-of-closed-envelope-back.png" style="width: 20px;"/> rbnmp@protonmail.com \
-<img src="https://image.freepik.com/free-icon/auricular-phone-symbol-in-a-circle_318-50200.jpg" style="width: 20px;"/>  +34 636 61 27 39 \
+<img src="../img/message.png" width="20"/> rbnmp@protonmail.com \
+<img src="../img/wa.jpg" width="20"/> +34 636 61 27 39 \
+<img src="../img/github.png" width="20"/> [Rubenmp](https://github.com/Rubenmp) \
+<img src="../img/linkedin.png" width="20"/> [Rubenmp](https://linkedin.com/in/rubén-morales-pérez)
 
-[<img src="https://image.flaticon.com/icons/svg/25/25231.svg" style="width: 20px;"/> Rubenmp](https://github.com/Rubenmp/) \
-[<img src="http://www.theredbrickroad.com/wp-content/uploads/2017/05/linkedin-logo-copy.png" style="width: 20px;"/> Rubenmp](www.linkedin.com/in/rubén-morales-pérez)
 </div>
 
 -----------------
